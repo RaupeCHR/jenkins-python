@@ -1,1 +1,2 @@
-print("Hello Leute")
+def main():
+  return "Christoph"
